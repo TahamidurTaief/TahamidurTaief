@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. Tahamidur Rahman Taief</h1>
 <h3 align="center">I am a professionally Programmer from Bangladesh.</h3>
 
-<img align="right" alt="Coding" width="500" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="450" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahamidurtaief&label=Profile%20views&color=0e75b6&style=flat" alt="tahamidurtaief" /> </p>
 
@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/tahamidurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahamidurt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tahamidur-taief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahamidur-taief" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tahamidurtaief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tahamidurtaief" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/tahamidurtaief](https://stackoverflow.com/users/19366950/tahamidur-taief)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tahamidurtaief" height="30" width="40" /></a>
 <a href="https://fb.com/tahamidurtaief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahamidurtaief" height="30" width="40" /></a>
 <a href="https://instagram.com/tahamidurtaief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahamidurtaief" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCqVJHgz_sQ-44I5CdiiRXXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tahamidur taief" height="30" width="40" /></a>
