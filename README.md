@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/tahamidurt" target="blank"><img src="https://img.shields.io/twitter/follow/tahamidurt?logo=twitter&style=for-the-badge" alt="tahamidurt" /></a> </p>
 
-- 🔭 I’m currently working on **C and Python**
+- 🔭 I’m currently working on **C, Python and C++**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **Python, Django, Tkinter**
 
