@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **tahamidurtaief@gmail.com**
 
-- ⚡ Fun fact **I like to make fun.**
+- ⚡ Fun fact **I like to make fun with Coading.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
